@@ -1,5 +1,6 @@
 # React App
-Fully working app showing informations about all github users. with authentification feature, styled component and global css 
+Fully working app showing informations about all github users. with authentification feature, styled component and global css. 
+Done with the help of John Smilga's ReactJs course on udemy
 
 ## React Router Dom
 
@@ -27,3 +28,5 @@ version used - "react-router-dom": "^5.2.0",
 ## Deployment
 
 [Netlify](https://fakhredine-react-githubsearchusers.netlify.app/)
+
+
