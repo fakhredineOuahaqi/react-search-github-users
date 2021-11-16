@@ -1,4 +1,5 @@
-## Github search users 
+# React App
+Fully working app showing informations about all github users. with authentification feature, styled component and global css 
 
 ## React Router Dom
 
@@ -11,8 +12,6 @@ version used - "react-router-dom": "^5.2.0",
 - [Repos](https://api.github.com/users/fakhredineOuahaqi/repos?per_page=100)
 - [Followers](https://api.github.com/users/fakhredineOuahaqi/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
-
-  For unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making requests.
 
 ## Fusion Charts
 
