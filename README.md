@@ -27,4 +27,4 @@ version used - "react-router-dom": "^5.2.0",
 
 ## Deployment
 
-[Netlify](https://www.netlify.com/)
+[Netlify](https://fakhredine-react-githubsearchusers.netlify.app/)
